@@ -24,3 +24,9 @@ Configure .env.local with your database credentials.
 - Frontend: React (Server & Client Components), TypeScript.
 - Backend: Drizzle ORM, PostgreSQL.
 - Tooling: Next.js App Router.
+
+## How to Use
+- Populate categories and expenses in the database using Drizzle Studio.
+- View and manage expenses on the app interface.
+- Filter expenses by date using the query parameter:
+- Example: localhost:3000?date=YYYY-MM-DD.
